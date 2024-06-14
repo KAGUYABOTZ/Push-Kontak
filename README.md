@@ -30,8 +30,8 @@
 - Konfigurasi Owner Pada ```./setting/config.js```
 
 ```ts
-global.owner = ["6285742632270"];
-global.author = "RezaDevv";
+global.owner = ["6285796432537"];
+global.author = "Gravi88";
 global.packname = "Push-Kontak";
 global.sessionName = "Bot-Session";
 global.versionbot = "1.2.0";
@@ -64,14 +64,14 @@ $ npm start
 $ apt update && apt upgrade
 $ apt install git -y
 $ apt install nodejs -y
-$ git clone https://github.com/resahdevv/Push-Kontak.git
+$ git clone https://github.com/KAGUYABOTZ/Push-Kontak.git
 $ cd Push-Kontak
 $ npm install
 $ npm start
 ```
 
 ## Thanks To
-* [`ResahDevv`](https://github.com/resahdevv)
+* [`ResahDevv`](https://github.com/KAGUYABOTZ)
 
 ```Thanks to all who have participated in the development of this script```
 
@@ -79,7 +79,7 @@ $ npm start
 <a href="https://saweria.co/rezadevv" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ## License
-[MIT License](https://github.com/resahdevv/Push-Kontak/LICENSE)
+[MIT License](https://github.com/KAGUYABOTZ/Push-Kontak/LICENSE)
 
 ```Copyright (c) 2023 Rezadevv```
 
